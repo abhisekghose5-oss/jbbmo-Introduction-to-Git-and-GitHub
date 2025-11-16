@@ -4,6 +4,13 @@
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
+## Created by
+**ABHISEK GHOSH**
+
+## How to Run This Project
+
+ 1. Clone the repository:
+
 ```
 Input:
    p, principal amount
